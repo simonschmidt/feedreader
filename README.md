@@ -11,7 +11,7 @@ Commandline RSS and Atom client
 
 # Usage
 
-``bash
+```bash
 feedreader --help
 ```
 
