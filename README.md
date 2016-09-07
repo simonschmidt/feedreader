@@ -5,8 +5,9 @@ Commandline RSS and Atom client
 
 # Installation
 
-1. clone this repository
-1. `pip install -e .`
+python3 only:
+
+`pip install git+https://github.com/simonschmidt/feedreader.git`
 
 
 # Usage
